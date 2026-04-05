@@ -1,12 +1,12 @@
 # soc-analyst-labs-detection-response
 Hands-on SOC analyst lab demonstrating end-to-end security operations including alert analysis, log investigation, threat detection, incident response, and threat intelligence using industry-relevant tools.
-# 🛡️ SOC Analyst Labs – Detection & Response 
+#  SOC Analyst Labs – Detection & Response 
 
 This repository contains hands-on SOC analyst lab exercises focused on security monitoring, alert analysis, threat detection, and incident response using Wazuh SIEM.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand SOC operations and workflows  
 - Analyze security alerts and logs  
@@ -15,7 +15,7 @@ This repository contains hands-on SOC analyst lab exercises focused on security 
 
 ---
 
-## 📂 Lab Structure
+## Lab Structure
 
 - Wazuh (SIEM)
 - TheHive (Incident Response & Case Management)
@@ -25,16 +25,21 @@ This repository contains hands-on SOC analyst lab exercises focused on security 
 
 ---
 
-## ⚙️ Tools Used
 
-- Wazuh SIEM  
-- TheHive  
-- VirusTotal  
-- Snort  
+##  Tools & Technologies Used
+
+- Wazuh (SIEM & Security Monitoring)
+- TheHive (Incident Response & Case Management)
+- VirusTotal (Threat Intelligence & IOC Analysis)
+- Snort (Intrusion Detection System - IDS)
+- Velociraptor (DFIR & Endpoint Investigation)
+- Windows Event Viewer (Log Analysis)
+- Linux (System & Log Monitoring)
+- MITRE ATT&CK Framework (Threat Mapping & Analysis)
 
 ---
 
-## 🚀 Key Skills Gained
+##  Key Skills Gained
 
 - Alert triage and analysis  
 - Log investigation  
@@ -43,12 +48,12 @@ This repository contains hands-on SOC analyst lab exercises focused on security 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 (Add screenshots from each lab here)
 
 ---
 
-## 📌 Note
+##  Note
 
 This project demonstrates practical SOC analyst skills through hands-on lab exercises.
