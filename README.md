@@ -1,5 +1,5 @@
 # soc-analyst-labs-detection-response
-Hands-on SOC analyst lab covering alert detection, log analysis, threat intelligence, incident response, and SOC workflows using Wazuh, TheHive, and security tools.
+Hands-on SOC analyst lab demonstrating end-to-end security operations including alert analysis, log investigation, threat detection, incident response, and threat intelligence using industry-relevant tools.
 # 🛡️ SOC Analyst Labs – Detection & Response 
 
 This repository contains hands-on SOC analyst lab exercises focused on security monitoring, alert analysis, threat detection, and incident response using Wazuh SIEM.
